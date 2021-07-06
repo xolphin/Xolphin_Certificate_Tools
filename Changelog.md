@@ -1,6 +1,12 @@
 ﻿# Xolphin Certificate Tool
 
-#### v2.2.0 - 2020-05-25
+#### v2.3.0 - 2021-07-06
+ - T5470 - String is not an integer bug
+ - T5472 - Missing Object checked
+ - T5477 - Code Signing compliance update
+ - T5476 - Code Signing upgraded to 4096 bits
+
+#### v2.2.0 - 2021-05-25
  - Pre-set .pfx extension on PFX Export
  - Changed minimum key size for Code Signing certificates to 3072 bits
  - Disabled export function for pending orders
@@ -8,19 +14,19 @@
  - Include complete CA chain during installation and PFX & PEM Export
  - Account creation possible from within application
 
-#### v2.1.0 - 2020-03-04
+#### v2.1.0 - 2021-03-04
  - T5383 - Test Login credentials
  - Check for updates online
  - Create CSR manually
 
-#### v2.0.1 - 2020-02-11
+#### v2.0.1 - 2021-02-11
  - Settings Dialog now setting correct Radio button pre-select
 
-#### v2.0.0 - 2020-02-08
+#### v2.0.0 - 2021-02-08
  - Pending Xolphin Requests renamed to Pending Requests (Current User)
  - Added Sectigo Code Signing Support
 
-#### v1.3.2 - 2020-01-29
+#### v1.3.2 - 2021-01-29
  - Crash when pending requests is empty and Actions panel is called
  - Update X509Certificate Import on single installation
  - Remove empty lines from Install (Multiple)
