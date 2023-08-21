@@ -1,5 +1,16 @@
 ﻿# Xolphin Certificate Tool
 
+#### v2.6.0 - 2023-08-21
+ - S/MIME industry changes alignment
+
+#### v2.5.0 - 2022-03-12
+ - Internal Release - Ensured Token support
+
+#### v2.4.0 - 2021-10-12
+ - T5511 - Email address now added as friendly name on certificates during installation
+ - T5503 - Order messages updated
+ - T5483 - Removed need for person/department
+
 #### v2.3.0 - 2021-07-06
  - T5470 - String is not an integer bug
  - T5472 - Missing Object checked
